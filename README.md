@@ -6,8 +6,8 @@ An AI-powered question answering system specifically designed for HSC (Higher Se
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/online_assingment.git
-cd online_assingment
+git clone https://github.com/yourusername/Rag-based-QA-system.git
+cd Rag-based-QA-system
 ```
 
 2. Install dependencies:
